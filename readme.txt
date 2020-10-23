@@ -1,1 +1,0 @@
-It use gazebo to simulate Baxter robot to plan with two different version of RRT.(see more details in the report)
